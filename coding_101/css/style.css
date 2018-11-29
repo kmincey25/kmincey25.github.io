@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:300,400,700i|Noto+Sans+SC:400,700');
+body {
+  background-color: white;
+  color: black;
+  font-family: "Noto Sans SC", sans-serif;
+  margin-left: 100px;
+}
+
+h1 {
+  color: #ff6666;
+  font-family: "Merriweather", serif;
+}
+
+h2 {
+  color:#999999;
+  font-family: "Merriweather", serif;
+}
+
+a:hover {
+  font-weight: bold;
+  color: white;
+  background-color: #ff6666;
+}
+
+img {
+  width: 600px;
+  padding-top: 30px;
+}
